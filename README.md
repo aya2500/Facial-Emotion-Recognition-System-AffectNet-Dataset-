@@ -50,10 +50,7 @@ This project aims to detect and classify facial emotions from images using a cus
 
 ## 📈 Sample Results
 
-- Training Accuracy: ~XX%
-- Validation Accuracy: ~XX%
-
-![Confusion Matrix Sample](path/to/image.png)  
-*(Add any sample output images here)*
+- Training Accuracy: 0.8588
+- Validation Accuracy: 0.5947
 
 
